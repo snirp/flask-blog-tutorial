@@ -1,8 +1,12 @@
 {% extends 'base.html' %}
 
-{% block title %}index {{super()}} {% endblock %}
+{% block title %}Home {{super()}} {% endblock %}
 
-{% block body %}
-  <h1>Templating example</h1>
-  <p>This is some content on the index page.</p>
+{% block main %}
+  <h1>My personal website</h1>
+  <p>This page was created with frozen flask.</p>
+
+  <h2>Latest blog postings</h2>
+  {% include "include/blog-list.html" %}
+
 {% endblock %}

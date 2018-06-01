@@ -1,0 +1,8 @@
+{% for b in blog_list %}
+<section>
+  <a href={{ url_for('blog_detail', path=b.path) }}>
+    <h2>{{ b.title }}</h2>
+    <h3>{{ b.subtitle }}</h3>
+  </a>
+</section>
+{% endfor %}
