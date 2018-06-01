@@ -3,42 +3,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/atom.xml</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/atom.xml</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-six/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/lorem-ipsum-six/</loc>
       <lastmod>2018-06-06</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-three/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/lorem-ipsum-three/</loc>
       <lastmod>2018-06-03</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-four/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/lorem-ipsum-four/</loc>
       <lastmod>2018-06-04</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-one/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/lorem-ipsum-one/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-two/</loc>
+      <loc>https://snirp.github.io/flask-blog-tutorial//flask-blog-tutorial/blog/lorem-ipsum-two/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
