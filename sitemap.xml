@@ -3,42 +3,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/atom.xml</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/atom.xml</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/lorem-ipsum-six/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-six/</loc>
       <lastmod>2018-06-06</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/lorem-ipsum-three/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-three/</loc>
       <lastmod>2018-06-03</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/lorem-ipsum-four/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-four/</loc>
       <lastmod>2018-06-04</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/lorem-ipsum-one/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-one/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
    <url>
-      <loc>&lt;name&gt;.github.io/&lt;repo&gt;/blog/lorem-ipsum-two/</loc>
+      <loc>snirp.github.io/flask-blog-tutorial//blog/lorem-ipsum-two/</loc>
       <lastmod>2018-06-01</lastmod>
    </url>
     
