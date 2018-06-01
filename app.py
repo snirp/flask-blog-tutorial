@@ -1,11 +1,9 @@
-from flask import Flask
+from flask import Flask, render_template
 app = Flask(__name__)
 
-@app.route('/')
+@app.route("/")
 def index():
-    return 'Hello world'
+    return render_template('index.html')
 
-# Alternative to `flask run` command, but not recommended for development
-# See here: http://flask.pocoo.org/docs/1.0/server/#server
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

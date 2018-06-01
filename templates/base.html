@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% block head %}
+    <meta charset="utf-8">
+    <title>
+        {% block title %} | My blog{% endblock %}
+    </title>
+    <meta 
+        name="description" 
+        content="{% block description %} A blog with frozen flask{% endblock %}"
+        >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/5.0.0/sanitize.min.css" integrity="sha256-qNrgGqSO9Xu/fUg5vIi1xwbnOleSZRAidBaJ8U4qEy8=" crossorigin="anonymous">
+    <link rel='stylesheet' href="{{ url_for('static', filename='css/main.css') }}">
+{% endblock %}
+</head>
+<body 
+    class="{% block body_class %}{% endblock %}" 
+    id="{% block body_id %}{% endblock %}"
+    >
+    {% block body %}
+    <header>
+        <div>MY BLOG</div>
+        <nav>
+            <a href="{{ url_for('index') }}">home</a>
+            <a href="{{ url_for('blog_index') }}">blog</a>
+        </nav>
+    </header>
+    <main>
+        {% block main %}
+        <h1>Main content goes here</h1>
+        {% endblock %}
+    </main>
+    <footer>
+        {% block footer %}
+        <nav>
+            <a href="{{ url_for('sitemap') }}">sitemap</a>
+        </nav>
+        {% endblock %}
+    </footer>
+    {% endblock %}
+</body>
+</html>
